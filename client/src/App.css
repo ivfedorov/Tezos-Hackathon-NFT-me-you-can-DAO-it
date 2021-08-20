@@ -1,0 +1,273 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    margin: 0;
+    /*font-family: "Roboto" !important;*/
+    font-size: 0.85rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #fff;
+    text-align: left;
+    /*background-color: #313652;*/
+    background-image: url("background.png") !important;
+    background-size: cover;
+    background-position: center;
+}
+
+.dashboard-logo {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    padding-top: 2em;
+    display: block;
+}
+
+.connectButton {
+    display: inline-block;
+    text-align: center;
+    margin-top: 2.5em;
+}
+
+.connectButton button {
+    color: #FFFFFF;
+    background: #222437 !important;
+    border-color: #4C92CE !important;
+    border-radius: 16px !important;
+    box-shadow: 0px 5px 13px rgba(76, 146, 206, 0.4), 0px -5px 13px rgba(76, 146, 206, 0.4) !important;
+    padding: 1em;
+    font-size: 30px;
+    float: right;
+    margin-top: 1.5em;
+    margin-left: 1.5em;
+
+}
+
+.connectButton button:hover {
+    color: #FFFFFF;
+    background: #4C92CE !important;
+}
+
+.planet-navbar-card {
+    text-align: center;
+    padding-top: 3em;
+    cursor: pointer;
+}
+
+div.planet-navbar-card:hover img{
+    opacity: 0.5;
+}
+
+div.planet-navbar-card:hover h1{
+    text-shadow: 0px 5px 13px rgba(76, 146, 206, 0.4), 0px -5px 13px rgba(76, 146, 206, 0.4);
+
+}
+
+
+
+.planet-card {
+    background: #222437;
+    border: 0.5px solid #4C92CE;
+    box-sizing: border-box;
+    box-shadow: 0px -6px 15px rgba(76, 146, 206, 0.3), 0px 5px 13px rgba(76, 146, 206, 0.3);
+    border-radius: 30px;
+    margin-top: 2em;
+}
+
+.planet-rates-item {
+    font-family: "Exo 2";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 31px;
+    color: #FFFFFF;
+    margin-top: 2em;
+}
+
+.planet-card-img {
+    width: 92%;
+    margin: auto;
+    display: block;
+}
+
+.planet-desc-text {
+    font-family: Exo 2;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-top: 2em;
+    margin-left: 2em;
+    margin-bottom: 2em;
+    margin-right: 2em;
+}
+
+.moveButton {
+    display: inline-block;
+    text-align: center;
+    margin-top: 2.5em;
+}
+
+.moveButton button {
+    color: #222437;
+    background: #FFD552 !important;
+    border-color: #4C92CE !important;
+    border-radius: 16px !important;
+    box-shadow: 0px 5px 13px rgba(76, 146, 206, 0.4), 0px -5px 13px rgba(76, 146, 206, 0.4) !important;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-size: 30px;
+    float: right;
+}
+
+.moveButton button:hover {
+    color: #222437;
+    opacity: 0.8;
+}
+
+.exchange-card {
+    background: #222437;
+    border: 0.5px solid #4C92CE;
+    box-sizing: border-box;
+    box-shadow: 0px -6px 15px rgba(76, 146, 206, 0.3), 0px 5px 13px rgba(76, 146, 206, 0.3);
+    border-radius: 30px;
+    margin-top: 2em;
+}
+
+.exchange-card-label {
+    font-family: Exo 2;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 19px;
+    color: #FFFFFF;
+    margin-top: 1.5em;
+    margin-left: 10%;
+}
+
+.exchange-card-input input {
+    border: 1px solid #787878;
+    box-sizing: border-box;
+    border-radius: 9px !important;
+    background: #222437;
+    font-family: Exo 2;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 19px;
+    color: #D6D6D6;
+    margin-top: 1.5em;
+    margin-left: 10%;
+}
+
+.exchange-card-input input:focus {
+    background: #222437;
+    color: #D6D6D6;
+}
+
+.exchange-card-select select {
+    border: 1px solid #787878;
+    box-sizing: border-box;
+    border-radius: 9px;
+    background: #222437;
+    font-family: Exo 2;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 19px;
+    color: #D6D6D6;
+    margin-top: 1.5em;
+    margin-left: 15%;
+}
+
+.exchange-card-select select:focus {
+    background: #222437;
+    color: #D6D6D6;
+}
+
+.switchButton {
+    display: block;
+    text-align: center;
+}
+
+.switchButton button {
+    color: #FFFFFF;
+    background: #4C92CE !important;
+    border-color: #4C92CE !important;
+    border-radius: 16px !important;
+    box-shadow: 0px 5px 13px rgba(76, 146, 206, 0.4), 0px -5px 13px rgba(76, 146, 206, 0.4) !important;
+    padding: 1em;
+}
+
+.switchButton button:hover {
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+
+.changeButton {
+    background: #4C92CE !important;
+    box-shadow: 0px 5px 13px rgba(76, 146, 206, 0.4), 0px -5px 13px rgba(76, 146, 206, 0.4) !important;
+    border-radius: 16px !important;
+    border-color: #4C92CE !important;
+    width: 100% !important;
+    margin-top: 1em;
+    margin-left: 10%;
+    margin-bottom: 2em;
+    font-family: Exo 2;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px !important;
+    line-height: 19px;
+    padding: 1em;
+    color: #FFFFFF;
+}
+
+button.changeButton:hover {
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.resourceItem {
+    margin-top: 5em;
+}
+
+.resourceItem img {
+    display: block;
+    text-align: center;
+    max-width: 50%;
+    margin-top: 5em;
+    margin: auto;
+}
+
+.resourceItem p {
+    text-align: center;
+    margin-top: 1em;
+    font-family: Exo 2;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.reconnectButton {
+    display: inline-block;
+    text-align: center;
+    margin-top: 2.5em;
+}
+
+.reconnectButton button {
+    color: #FFFFFF;
+    background: #222437 !important;
+    border-color: #4C92CE !important;
+    border-radius: 16px !important;
+    box-shadow: 0px 5px 13px rgba(76, 146, 206, 0.4), 0px -5px 13px rgba(76, 146, 206, 0.4) !important;
+    font-size: 20px;
+
+}
+
+.connectButton button:hover {
+    color: #FFFFFF;
+    background: #4C92CE !important;
+}
