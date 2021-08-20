@@ -8,7 +8,7 @@ During the hackathon was implemented a prototype DeFi-game "Space Traders" for T
 
 # Motivation 
 
-In Tezos ecosystem gaming is one of the most priority trends for protocol development and popularization. Merging of NFT & DeFi technologies can attract new users to the ecosystem. Moreover, blockchain-games allow gamers to both enjoy the process and пуе reward in cryptocurrency :)
+In Tezos ecosystem gaming is one of the most priority trends for protocol development and popularization. Merging of NFT & DeFi technologies can attract new users to the ecosystem. Moreover, blockchain-games allow gamers to both enjoy the process and reward in cryptocurrency :)
 
 # Core
 
