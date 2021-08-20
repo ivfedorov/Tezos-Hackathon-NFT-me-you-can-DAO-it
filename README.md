@@ -1,6 +1,6 @@
 # Tezos-Hackathon-NFT-me-you-can-DAO-it — Space Traders 
 
-<a href="">Demo</a>
+<a href="https://youtu.be/KwK2moRhQto">Demo</a>
 
 During the hackathon was implemented a prototype DeFi-game "Space Traders" for Tezos ecosystem. 
 
