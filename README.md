@@ -1,4 +1,4 @@
-# Tezos-Hackathon-NFT-me-you-can-DAO-it — Space Traders 
+# Space Traders 
 
 <a href="https://youtu.be/KwK2moRhQto">Demo</a>
 
